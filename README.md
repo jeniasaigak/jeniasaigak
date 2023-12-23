@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hey there! I'm Eugene Saigak, a Senior Full Stack Engineer with 7 years of experience, based in Petah Tikva, Israel 🇮🇱.
+I'm Eugene Saigak, a Senior Full Stack Engineer with 7 years of experience, based in Petah Tikva, Israel 🇮🇱.
 I'm passionate about crafting robust Back-end solutions and exploring the limitless possibilities of technologies.
 
 - 🚀 I'm proficient in: **JavaScript, TypeScript, Node.js, Nest.js, React, React Native** and more!
